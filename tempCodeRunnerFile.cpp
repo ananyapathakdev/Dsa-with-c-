@@ -1,3 +1,2 @@
- for(int val:vec){
-    //     cout<<val<<endl;
-    //  }
+
+    // cout <<"size of vector =" <<" "<<vec.size()<<endl;
