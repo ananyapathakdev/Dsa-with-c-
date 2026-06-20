@@ -1,2 +1,1 @@
-
-    // cout <<"size of vector =" <<" "<<vec.size()<<endl;
+int arr[5]={4,5,25,6,8};
